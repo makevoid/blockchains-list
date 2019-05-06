@@ -8,35 +8,37 @@ All opinions are personal.
 
 ### Good
 
-- Bitcoin 
+#### - Bitcoin 
 
-For both payments and OP_RETURN based use cases, Bitcoin gets the top place 
+For both payments and OP_RETURN based use cases, Bitcoin gets the top place. It has the most hashrate (security/immutability). It is easy to develop on. You can inspect the chain and validate scripts easily. You can build a lot of cool stuff on top of OP_RETURN (have a think about this). Bitcoin is a real blockchain. The asset is the strongest amongst all the other. You can use payment channels to get around high fees. If you think you need a "layer 2" option now, you can use a second chain (LTC/BCH for example or a non-pow one, depending on the use cases). You can do cross chain atomic swaps  (lower fees / faster transactions).   
+
+I'm not a big fan of LN as it stands currently. I think it will need a lot of time/development to be usable. I suggest to base your solution on payment channels if you were thinking about LN.
 
 ### Good-ish
 
-- Ethereum
-- Rootstock
+#### - Ethereum
+#### - Rootstock
 
 Ethereum is powerful as it gained a lot of traction, it's not simple and straightfoward as Bitcoin is (thanks Satoshi), but it's good as it's PoW and a lot of nice development is going in and around it.
 
 ### Somewhat Good
 
-- LTC
-- BCH
-- BSV
-- DOGE
+#### - LTC
+#### - BCH
+#### - BSV
+#### - DOGE
 
 At least are bitcoin forks, they're PoW, if you learn development in these you can apply it to BTC
 Plus:
 
-- Ethereum Classic
+#### - Ethereum Classic
 
 Of course!
 
 ### Privacy coins
 
-- Monero
-- Zcash
+#### - Monero
+#### - Zcash
 
 ### Networks
 
