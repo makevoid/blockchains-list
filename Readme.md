@@ -33,6 +33,11 @@ Plus:
 
 Of course!
 
+### Privacy coins
+
+- Monero
+- Zcash
+
 ### Networks
 
 - Cosmos/Tendermint/Lotion.js
@@ -48,8 +53,6 @@ Networks are interesting, I believe we'll see some nice networks or peg-chains
 
 ### Look "ok" to me
 
-- Monero
-- Zcash
 - Dash
 
 - NANO
